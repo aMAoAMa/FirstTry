@@ -1,0 +1,13 @@
+# 进入仓库目录
+cd /new_disk/GitHub/FirstTry
+
+# 拉取最新代码（多人协作必做）
+git pull origin main
+
+# 修改文件后，一键暂存+提交+推送
+git add . && git commit -m "新增XX功能" && git push
+
+
+
+git commit -m "提交说明"
+
